@@ -1,0 +1,7 @@
+[DONE] 1. Implement port extraction from file for client
+[DONE] 2. Implement tracker no. for tracker
+[DONE] 3. Implement "downloads" for client
+[DONE] 4. Implement "show_downloads" client
+5. Implement "stop_sharing" client
+6. Implement parallel download for client
+7. Implement multiple tracker and Inter Tracker Synchronization
